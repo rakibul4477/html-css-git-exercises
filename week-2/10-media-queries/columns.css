@@ -1,1 +1,6 @@
 /* Add your own CSS code below */
+@media screen and (min-width: 750px) {
+  .countries {
+    columns: 2;
+  }
+}
